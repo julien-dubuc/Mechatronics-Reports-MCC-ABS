@@ -52,7 +52,3 @@ This report presents the modeling and simulation of an automotive braking system
 * **Multi-physics modeling**: electrical, mechanical, thermal (via the filter), tire-road contact.
 * **Control systems**: P, PI, PID, TOR controllers, in continuous and discrete time.
 * **Robustness analysis**: impact of delays, sampling and saturations on stability.
-
----
-
-## 🗂️ Repository Structure
